@@ -1,0 +1,10 @@
+--- REGISTRO BACEN ---
+Banco: Banco do Brasil
+Código: 001
+---------------------
+Tipo: PIX
+Valor: R$ 250.00
+Data: 20/02/2026 18:41:02
+
+
+** Process exited - Return Code: 0 **
