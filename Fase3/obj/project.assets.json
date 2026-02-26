@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\manha.cetafest\\.nuget\\packages\\": {},
+    "C:\\Users\\pedro\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\SistemaBancarios\\Fase3\\Fase3\\Fase3.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\Documents\\GitHub\\Fase-2\\Fase3\\Fase3.csproj",
       "projectName": "Fase3",
-      "projectPath": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\SistemaBancarios\\Fase3\\Fase3\\Fase3.csproj",
-      "packagesPath": "C:\\Users\\manha.cetafest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\SistemaBancarios\\Fase3\\Fase3\\obj\\",
+      "projectPath": "C:\\Users\\pedro\\Documents\\GitHub\\Fase-2\\Fase3\\Fase3.csproj",
+      "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pedro\\Documents\\GitHub\\Fase-2\\Fase3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\manha.cetafest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

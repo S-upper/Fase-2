@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Fase3;
+using System;
 using System.Runtime.Intrinsics.X86;
 class Program
 {
@@ -31,4 +32,14 @@ class Program
         public string NumeroConta { get; set; }
         public decimal Saldo { get; private set; }
     }
+
+           static void M(string[] args)
+        {
+            var conversor = new ConversorGrandezas(new ConversorMilhoes());
+
+            var resultado = conversor.Converter(5000000);
+
+            Console.WriteLine(resultado);
+        }
+    
 }
